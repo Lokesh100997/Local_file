@@ -16,3 +16,5 @@ l1 = [1, 34, 62, 2, 6, 11]
 #value = l1.pop(3)         #pop will use to remove the value 
 #print(value)
 print(l1.remove(6))          #remove particular element from list
+
+print(5+7)
